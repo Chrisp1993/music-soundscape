@@ -53,9 +53,9 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
-Deployed: https://PhilemonKirlles.github.io/music-soundscape/
+Deployed: https://quiet-garden-98932.herokuapp.com/
 
-GitHub Repository: https://github.com/PhilemonKirlles/music-soundscape.git
+GitHub Repository: https://github.com/Chrisp1993/music-soundscape
 
 SCREENSHOTS:
 
